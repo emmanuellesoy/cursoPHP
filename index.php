@@ -1,6 +1,6 @@
 <?php
-    print "Hola mundo con PHP y print";
+    print "<p>Hola mundo con PHP y print</p>";
 ?>
 <?php
-    echo("Hola mundo");
+    echo("<p>Hola mundo</p>");
 ?>
